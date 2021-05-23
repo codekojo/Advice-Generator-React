@@ -21,5 +21,5 @@ Clone the Repo or Download the source
 </h1>
 
 <p align="center">
-    <img src="https://github.com/codekojo/Instagram-Clone/blob/main/instagram/Screen%20Shot%202021-05-22%20at%2011.45.52%20PM.png?raw=true" alt="IMG" />
+    <img src="https://github.com/codekojo/Advice-Generator-React/blob/main/images/Screen%20Shot%202021-05-23%20at%206.57.21%20PM.png?raw=true" alt="IMG" />
 </p>
